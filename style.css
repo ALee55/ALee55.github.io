@@ -3,12 +3,6 @@ h1 {
     text-align: center;
 }
 
-p{
-    margin-right: 200px;
-    margin-left: 200px;
-    line-height: 2;
-}
-
 h2{
     margin-right: 200px;
     margin-left: 200px;
@@ -18,6 +12,12 @@ h3{
     color: C2C5CC;
     margin-right: 200px;
     margin-left: 200px;
+}
+
+p{
+    margin-right: 200px;
+    margin-left: 200px;
+    line-height: 2;
 }
 
 nav{
