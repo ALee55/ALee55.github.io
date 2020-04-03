@@ -1,5 +1,5 @@
 h1 {
-    color: black; 
+    color: 2B2D2F; 
     text-align: center;
 }
 
@@ -26,8 +26,9 @@ footer{
 body {
     padding: 15px;
     margin: 5px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 17px;
+    font-family: 'Bookman Old Style', sans-serif;
+    font-size: 18px;
+    font-style: italic
     background-color: #C39B77;
 }
 
